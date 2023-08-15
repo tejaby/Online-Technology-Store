@@ -1,0 +1,94 @@
+body {
+  background-image: linear-gradient(
+    -225deg,
+    #473b7b 0%,
+    #3584a7 51%,
+    #30d2be 100%
+  );
+}
+
+#ms{
+  color: #000;
+  font-size: 25px;
+}
+#sm{
+  color: #000;
+  font-size: 20px;
+}
+
+h1 {
+  font-family: "Otomanopee One", sans-serif;
+  color: #fff;
+  font-size: 30px;
+}
+
+p {
+  color: #fff;
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 20px;
+}
+
+#navbar {
+  background: linear-gradient(to bottom, #323232 0%, #3f3f3f 40%, #1c1c1c 150%),
+    linear-gradient(
+      to top,
+      rgba(255, 255, 255, 0.4) 0%,
+      rgba(0, 0, 0, 0.25) 200%
+    );
+  background-blend-mode: multiply;
+}
+
+.navbar-brand {
+  color: #fff;
+}
+
+.nav-link {
+  color: #fff;
+}
+
+.nav-link:hover {
+  background-color: #fff;
+  color: #000000;
+  border-radius: 5px;
+}
+
+.navbar-brand:hover {
+  background-color: #fff;
+  color: #000000;
+  border-radius: 5px;
+}
+
+#container-login {
+  color: #fff;
+  width: 40%;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+#container-Admin {
+  color: #fff;
+  width: 40%;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+#letraP {
+  font-family: "Otomanopee One", sans-serif;
+  color: #fff;
+  font-size: 14px;
+}
+
+#letraT {
+  font-family: "Otomanopee One", sans-serif;
+  color: #fff;
+  font-size: 20px;
+}
+
+/*Boton login o Signup*/
+
+.textL {
+  color: #000;
+  font-family: "Otomanopee One", sans-serif;
+  font-size: 15px;
+  margin: auto;
+}
